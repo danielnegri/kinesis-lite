@@ -33,7 +33,7 @@ $ cd docker-kinesalite
 $ docker build -t danielnegri/kinesalite .
 ```
 
-## Run (will pull from Docker Hub)
+## Run (Docker Hub)
 
 ```
 # Default
