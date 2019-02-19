@@ -11,7 +11,7 @@ $ docker run -p 4567:4567 danielnegri/kinesalite --help
 
 Usage: kinesalite [--port <port>] [--path <path>] [--ssl] [options]
 
-A Kinesis http server, optionally backed by LevelDB
+A Kinesis HTTP server, optionally backed by LevelDB
 
 Options:
 --help                 Display this help message and exit
@@ -33,7 +33,7 @@ $ cd docker-kinesalite
 $ docker build -t danielnegri/kinesalite .
 ```
 
-## Run (will pull from Dockerhub)
+## Run (will pull from Docker Hub)
 
 ```
 # Default
